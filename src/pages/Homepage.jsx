@@ -4,7 +4,7 @@ function Homepage() {
   return (
     <div>
       <PageNav />
-      <h1>Worldwise</h1>
+      <h1>Worldwise Homepage</h1>
     </div>
   );
 }

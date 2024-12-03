@@ -1,3 +1,6 @@
+// ✍️ 220. Section Overview
+// ✍️ 221. CHALLENGE #1: Understand "The Atomic Blog" App
+
 import { useEffect, useState } from "react";
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 

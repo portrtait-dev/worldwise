@@ -16,7 +16,7 @@ import Button from "./Button";
 
 function Map() {
   const { cities } = useCities();
-  const [mapPosition, setMapPosition] = useState([39, 6]);
+  const [mapPosition, setMapPosition] = useState([38, 2]);
   const {
     isLoading: isLoadingPosition,
     position: geolocationPosition,
@@ -50,7 +50,7 @@ function Map() {
 
       <MapContainer
         center={mapPosition}
-        zoom={13}
+        zoom={7}
         scrollWheelZoom={true}
         className={styles.map}
       >

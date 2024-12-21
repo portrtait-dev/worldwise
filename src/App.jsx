@@ -55,3 +55,7 @@ export default App;
 // 👀 242. Section Overview
 // 👀 243. Performance Optimization and Wasted Renders (non-code lecture)
 // 👀 244. The Profiler Developer Tool (non-proj lecture)
+// 👀 245. A Surprising Optimization Trick With children (non-proj lecture)
+// 👀 246. Understanding memo (non-code lecture)
+// 👀 247. memo in Practice (non-proj lecture)
+// 👀 248. Understanding useMemo and useCallback (non-code lecture)

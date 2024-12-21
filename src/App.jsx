@@ -48,3 +48,10 @@ function App() {
 }
 
 export default App;
+
+// New section start
+// Section 19 - Performance Optimization and Advanced useEffect
+
+// 👀 242. Section Overview
+// 👀 243. Performance Optimization and Wasted Renders (non-code lecture)
+// 👀 244. The Profiler Developer Tool (non-proj lecture)
